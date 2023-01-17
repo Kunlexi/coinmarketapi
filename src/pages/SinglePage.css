@@ -1,0 +1,13 @@
+th tr,
+tr td {
+    text-align: center;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 0.3px solid grey;
+}
